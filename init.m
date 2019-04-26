@@ -5,5 +5,5 @@ mPend = 5;
 L = 1;
 Kd = 10;
 theta0 = 180; %degrees only
-x_des = 5;
+x_des = 2;
 sim Cart1
